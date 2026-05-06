@@ -15,9 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Meghana2653/Leetcode/tree/master/0001-two-sum) |
 | [0174-dungeon-game](https://github.com/Meghana2653/Leetcode/tree/master/0174-dungeon-game) |
 ## Matrix
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/Meghana2653/Leetcode/tree/master/0174-dungeon-game) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Meghana2653/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
