@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Meghana2653/Leetcode/tree/master/0049-group-anagrams) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Meghana2653/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
