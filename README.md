@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Meghana2653/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Meghana2653/Leetcode/tree/master/0049-group-anagrams) |
+| [0135-candy](https://github.com/Meghana2653/Leetcode/tree/master/0135-candy) |
 | [0174-dungeon-game](https://github.com/Meghana2653/Leetcode/tree/master/0174-dungeon-game) |
 ## Matrix
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Meghana2653/Leetcode/tree/master/0076-minimum-window-substring) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Meghana2653/Leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
