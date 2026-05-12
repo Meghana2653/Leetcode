@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Meghana2653/Leetcode/tree/master/0049-group-anagrams) |
 | [0135-candy](https://github.com/Meghana2653/Leetcode/tree/master/0135-candy) |
 | [0174-dungeon-game](https://github.com/Meghana2653/Leetcode/tree/master/0174-dungeon-game) |
+| [0636-exclusive-time-of-functions](https://github.com/Meghana2653/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 ## Matrix
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Meghana2653/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0636-exclusive-time-of-functions](https://github.com/Meghana2653/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 <!---LeetCode Topics End-->
