@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Meghana2653/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Meghana2653/Leetcode/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/Meghana2653/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Meghana2653/Leetcode/tree/master/0049-group-anagrams) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Meghana2653/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Meghana2653/Leetcode/tree/master/0135-candy) |
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Meghana2653/Leetcode/tree/master/0037-sudoku-solver) |
 | [0174-dungeon-game](https://github.com/Meghana2653/Leetcode/tree/master/0174-dungeon-game) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Meghana2653/Leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Meghana2653/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Meghana2653/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Meghana2653/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Meghana2653/Leetcode/tree/master/0126-word-ladder-ii) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Meghana2653/Leetcode/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/Meghana2653/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/Meghana2653/Leetcode/tree/master/0140-word-break-ii) |
 ## Trie
