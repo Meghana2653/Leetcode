@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Meghana2653/Leetcode/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/Meghana2653/Leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Meghana2653/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Meghana2653/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/Meghana2653/Leetcode/tree/master/0174-dungeon-game) |
 | [0636-exclusive-time-of-functions](https://github.com/Meghana2653/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 ## Matrix
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Meghana2653/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Meghana2653/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
