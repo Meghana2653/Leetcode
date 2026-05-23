@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Meghana2653/Leetcode/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Meghana2653/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Meghana2653/Leetcode/tree/master/0140-word-break-ii) |
+| [0482-license-key-formatting](https://github.com/Meghana2653/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Meghana2653/Leetcode/tree/master/0520-detect-capital) |
 ## Dynamic Programming
 |  |
