@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Meghana2653/Leetcode/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Meghana2653/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Meghana2653/Leetcode/tree/master/0140-word-break-ii) |
+| [0459-repeated-substring-pattern](https://github.com/Meghana2653/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Meghana2653/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Meghana2653/Leetcode/tree/master/0520-detect-capital) |
 | [0831-masking-personal-information](https://github.com/Meghana2653/Leetcode/tree/master/0831-masking-personal-information) |
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-last-stone-weight](https://github.com/Meghana2653/Leetcode/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Meghana2653/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Meghana2653/Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
