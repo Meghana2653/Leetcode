@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Meghana2653/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Meghana2653/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/Meghana2653/Leetcode/tree/master/0174-dungeon-game) |
+| [0209-minimum-size-subarray-sum](https://github.com/Meghana2653/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0636-exclusive-time-of-functions](https://github.com/Meghana2653/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Meghana2653/Leetcode/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/Meghana2653/Leetcode/tree/master/1046-last-stone-weight) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Meghana2653/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Meghana2653/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Meghana2653/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Meghana2653/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Greedy
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Meghana2653/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Meghana2653/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Meghana2653/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Meghana2653/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Meghana2653/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/Meghana2653/Leetcode/tree/master/1732-find-the-highest-altitude) |
