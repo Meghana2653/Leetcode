@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Meghana2653/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Meghana2653/Leetcode/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/Meghana2653/Leetcode/tree/master/1046-last-stone-weight) |
+| [1200-minimum-absolute-difference](https://github.com/Meghana2653/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Meghana2653/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Meghana2653/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1590-make-sum-divisible-by-p](https://github.com/Meghana2653/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Meghana2653/Leetcode/tree/master/0049-group-anagrams) |
+| [1200-minimum-absolute-difference](https://github.com/Meghana2653/Leetcode/tree/master/1200-minimum-absolute-difference) |
 ## Linked List
 |  |
 | ------- |
