@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Meghana2653/Leetcode/tree/master/0174-dungeon-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/Meghana2653/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Meghana2653/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/Meghana2653/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Meghana2653/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/Meghana2653/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0704-binary-search](https://github.com/Meghana2653/Leetcode/tree/master/0704-binary-search) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Meghana2653/Leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Meghana2653/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/Meghana2653/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0523-continuous-subarray-sum](https://github.com/Meghana2653/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Meghana2653/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Meghana2653/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Meghana2653/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Meghana2653/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Meghana2653/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0523-continuous-subarray-sum](https://github.com/Meghana2653/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Meghana2653/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Geometry
 |  |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Meghana2653/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Meghana2653/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Meghana2653/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Meghana2653/Leetcode/tree/master/0724-find-pivot-index) |
 | [1590-make-sum-divisible-by-p](https://github.com/Meghana2653/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
