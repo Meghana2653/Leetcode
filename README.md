@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Meghana2653/Leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Meghana2653/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Meghana2653/Leetcode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/Meghana2653/Leetcode/tree/master/0932-beautiful-array) |
 | [1046-last-stone-weight](https://github.com/Meghana2653/Leetcode/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Meghana2653/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Meghana2653/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Meghana2653/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/Meghana2653/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Meghana2653/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0932-beautiful-array](https://github.com/Meghana2653/Leetcode/tree/master/0932-beautiful-array) |
 ## Geometry
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Meghana2653/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Meghana2653/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Meghana2653/Leetcode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/Meghana2653/Leetcode/tree/master/0932-beautiful-array) |
 ## Monotonic Stack
 |  |
 | ------- |
