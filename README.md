@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Meghana2653/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Meghana2653/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Meghana2653/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Meghana2653/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1590-make-sum-divisible-by-p](https://github.com/Meghana2653/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Meghana2653/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/Meghana2653/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Meghana2653/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Meghana2653/Leetcode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Meghana2653/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Meghana2653/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Meghana2653/Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Linked List
 |  |
