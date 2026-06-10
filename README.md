@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Meghana2653/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Meghana2653/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/Meghana2653/Leetcode/tree/master/0932-beautiful-array) |
+| [2485-find-the-pivot-integer](https://github.com/Meghana2653/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Geometry
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Meghana2653/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Meghana2653/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/Meghana2653/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/Meghana2653/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Quickselect
 |  |
 | ------- |
