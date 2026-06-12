@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Meghana2653/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Meghana2653/Leetcode/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/Meghana2653/Leetcode/tree/master/0174-dungeon-game) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Meghana2653/Leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Array
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Meghana2653/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0932-beautiful-array](https://github.com/Meghana2653/Leetcode/tree/master/0932-beautiful-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Meghana2653/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Meghana2653/Leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2485-find-the-pivot-integer](https://github.com/Meghana2653/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Geometry
 |  |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Meghana2653/Leetcode/tree/master/0493-reverse-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Meghana2653/Leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 <!---LeetCode Topics End-->
