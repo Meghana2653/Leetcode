@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Meghana2653/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Meghana2653/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/Meghana2653/Leetcode/tree/master/0174-dungeon-game) |
+| [0204-count-primes](https://github.com/Meghana2653/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Meghana2653/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Meghana2653/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Meghana2653/Leetcode/tree/master/0493-reverse-pairs) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Meghana2653/Leetcode/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/Meghana2653/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Meghana2653/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/Meghana2653/Leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Meghana2653/Leetcode/tree/master/0263-ugly-number) |
 | [0523-continuous-subarray-sum](https://github.com/Meghana2653/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Meghana2653/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -336,4 +338,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Meghana2653/Leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Meghana2653/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Meghana2653/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
