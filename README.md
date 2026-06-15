@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Meghana2653/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Meghana2653/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Meghana2653/Leetcode/tree/master/0739-daily-temperatures) |
+| [0812-largest-triangle-area](https://github.com/Meghana2653/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Meghana2653/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Meghana2653/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0912-sort-an-array](https://github.com/Meghana2653/Leetcode/tree/master/0912-sort-an-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Meghana2653/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Meghana2653/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Meghana2653/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/Meghana2653/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Meghana2653/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0932-beautiful-array](https://github.com/Meghana2653/Leetcode/tree/master/0932-beautiful-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Meghana2653/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Meghana2653/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0812-largest-triangle-area](https://github.com/Meghana2653/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Meghana2653/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Binary Search
 |  |
