@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Meghana2653/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Meghana2653/Leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Meghana2653/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Meghana2653/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0912-sort-an-array](https://github.com/Meghana2653/Leetcode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Meghana2653/Leetcode/tree/master/0932-beautiful-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Meghana2653/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Meghana2653/Leetcode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Meghana2653/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/Meghana2653/Leetcode/tree/master/0174-dungeon-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Meghana2653/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Hash Table
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Meghana2653/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Meghana2653/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Meghana2653/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Meghana2653/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0932-beautiful-array](https://github.com/Meghana2653/Leetcode/tree/master/0932-beautiful-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Meghana2653/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Meghana2653/Leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Meghana2653/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Meghana2653/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Binary Search
 |  |
 | ------- |
