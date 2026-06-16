@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Meghana2653/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Meghana2653/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Meghana2653/Leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Meghana2653/Leetcode/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/Meghana2653/Leetcode/tree/master/0263-ugly-number) |
 | [0523-continuous-subarray-sum](https://github.com/Meghana2653/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Meghana2653/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Meghana2653/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/Meghana2653/Leetcode/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/Meghana2653/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Meghana2653/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Binary Search
