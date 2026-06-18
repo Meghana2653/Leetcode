@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Meghana2653/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Meghana2653/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Meghana2653/Leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Meghana2653/Leetcode/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/Meghana2653/Leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Meghana2653/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Meghana2653/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -358,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Meghana2653/Leetcode/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Meghana2653/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Meghana2653/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
