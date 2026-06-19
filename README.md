@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Meghana2653/Leetcode/tree/master/0037-sudoku-solver) |
+| [0089-gray-code](https://github.com/Meghana2653/Leetcode/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Meghana2653/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/Meghana2653/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/Meghana2653/Leetcode/tree/master/0140-word-break-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Meghana2653/Leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/Meghana2653/Leetcode/tree/master/0060-permutation-sequence) |
+| [0089-gray-code](https://github.com/Meghana2653/Leetcode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Meghana2653/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Meghana2653/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Meghana2653/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Meghana2653/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Meghana2653/Leetcode/tree/master/0136-single-number) |
 | [0371-sum-of-two-integers](https://github.com/Meghana2653/Leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
