@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Meghana2653/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Meghana2653/Leetcode/tree/master/0140-word-break-ii) |
 | [0459-repeated-substring-pattern](https://github.com/Meghana2653/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0481-magical-string](https://github.com/Meghana2653/Leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Meghana2653/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Meghana2653/Leetcode/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/Meghana2653/Leetcode/tree/master/0686-repeated-string-match) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Meghana2653/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Meghana2653/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Meghana2653/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0481-magical-string](https://github.com/Meghana2653/Leetcode/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/Meghana2653/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Meghana2653/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Depth-First Search
