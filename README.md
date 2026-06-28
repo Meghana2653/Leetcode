@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Meghana2653/Leetcode/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Meghana2653/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Meghana2653/Leetcode/tree/master/0140-word-break-ii) |
+| [0214-shortest-palindrome](https://github.com/Meghana2653/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Meghana2653/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0481-magical-string](https://github.com/Meghana2653/Leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Meghana2653/Leetcode/tree/master/0482-license-key-formatting) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Meghana2653/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Meghana2653/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Meghana2653/Leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Meghana2653/Leetcode/tree/master/0796-rotate-string) |
@@ -381,4 +383,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Meghana2653/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Meghana2653/Leetcode/tree/master/0137-single-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/Meghana2653/Leetcode/tree/master/0371-sum-of-two-integers) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Meghana2653/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Meghana2653/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
