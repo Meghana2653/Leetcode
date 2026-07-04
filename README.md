@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0831-masking-personal-information](https://github.com/Meghana2653/Leetcode/tree/master/0831-masking-personal-information) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Meghana2653/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Meghana2653/Leetcode/tree/master/1392-longest-happy-prefix) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Meghana2653/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Meghana2653/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Dynamic Programming
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Meghana2653/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/Meghana2653/Leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Meghana2653/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Meghana2653/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Meghana2653/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Meghana2653/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Design
 |  |
