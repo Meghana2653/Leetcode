@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Meghana2653/Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Meghana2653/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Meghana2653/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Meghana2653/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Meghana2653/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/Meghana2653/Leetcode/tree/master/0174-dungeon-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Meghana2653/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Meghana2653/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Meghana2653/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/Meghana2653/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Meghana2653/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Meghana2653/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Meghana2653/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0126-word-ladder-ii](https://github.com/Meghana2653/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Meghana2653/Leetcode/tree/master/0127-word-ladder) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Meghana2653/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Meghana2653/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Meghana2653/Leetcode/tree/master/0137-single-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/Meghana2653/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Meghana2653/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Rolling Hash
 |  |
 | ------- |
