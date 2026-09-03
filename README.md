@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Meghana2653/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Meghana2653/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Meghana2653/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Meghana2653/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Meghana2653/Leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2485-find-the-pivot-integer](https://github.com/Meghana2653/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Meghana2653/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Meghana2653/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Geometry
 |  |
 | ------- |
