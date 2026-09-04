@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Meghana2653/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Meghana2653/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Meghana2653/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Meghana2653/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-ways-to-make-a-fair-array](https://github.com/Meghana2653/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/Meghana2653/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Meghana2653/Leetcode/tree/master/2485-find-the-pivot-integer) |
+| [3903-smallest-stable-index-i](https://github.com/Meghana2653/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Quickselect
 |  |
 | ------- |
