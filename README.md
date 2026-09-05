@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Meghana2653/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Meghana2653/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Meghana2653/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Meghana2653/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/Meghana2653/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Meghana2653/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3903-smallest-stable-index-i](https://github.com/Meghana2653/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Meghana2653/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Quickselect
 |  |
 | ------- |
