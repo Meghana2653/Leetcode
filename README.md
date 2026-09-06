@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0831-masking-personal-information](https://github.com/Meghana2653/Leetcode/tree/master/0831-masking-personal-information) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Meghana2653/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Meghana2653/Leetcode/tree/master/1392-longest-happy-prefix) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Meghana2653/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Meghana2653/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Meghana2653/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Dynamic Programming
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Meghana2653/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/Meghana2653/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/Meghana2653/Leetcode/tree/master/0140-word-break-ii) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Meghana2653/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Trie
 |  |
 | ------- |
