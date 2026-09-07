@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Meghana2653/Leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Meghana2653/Leetcode/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Meghana2653/Leetcode/tree/master/0831-masking-personal-information) |
+| [0940-distinct-subsequences-ii](https://github.com/Meghana2653/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Meghana2653/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Meghana2653/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Meghana2653/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Meghana2653/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Meghana2653/Leetcode/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/Meghana2653/Leetcode/tree/master/0174-dungeon-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Meghana2653/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Meghana2653/Leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Array
 |  |
