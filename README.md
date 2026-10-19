@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Meghana2653/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Meghana2653/Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Meghana2653/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Meghana2653/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Meghana2653/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Meghana2653/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Meghana2653/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Meghana2653/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Meghana2653/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Meghana2653/Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Meghana2653/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Meghana2653/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Meghana2653/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Meghana2653/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Meghana2653/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Meghana2653/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Binary Search Tree
 |  |
